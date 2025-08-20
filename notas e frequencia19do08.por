@@ -12,7 +12,7 @@ programa {
     se (media >= 7 e frequencia >= 0.7){
       escreva("aprovado")}
       senao 
-      escreva("reprovado, seu burro!")}
+      escreva("reprovado")}
     }
   }
 }
